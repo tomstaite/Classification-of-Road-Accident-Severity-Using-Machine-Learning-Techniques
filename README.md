@@ -10,4 +10,4 @@ We used several methods to transform and prepare our data, including the removal
 
 The three machine learning techniques we decided to use were Random Forests, K-Nearest Neighbours, and Support Vector Machines. Some information about these three techniques has been provided within the project document. It was important for us to experiment with the models by varying their hyperparameters (learning rate, number of trees, number of nearest neighbors, etc.) in an attempt to optimize their performance for the dataset we were using.
 
-A comparison of the models has been completed, with a further look at the confusion matrices for each of the techniques and calculations of Accuracy, Precision, Recall, and F-score has been made.
+A comparison of the models has been completed, with a further look at the confusion matrices for each of the techniques and calculations of Accuracy, Precision, Recall, and F-score has been made. 
